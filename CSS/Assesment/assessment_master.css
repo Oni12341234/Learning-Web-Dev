@@ -1,0 +1,54 @@
+h1{
+
+    border: 3px black solid;
+
+}
+
+body{
+
+    background-color: rgb(148, 210, 255);
+}
+
+#itemone{
+
+
+    color:purple;
+    text-decoration: overline;
+}
+
+.visiting{
+
+    background-color: yellow;
+}
+
+h2{
+
+    color:purple;
+}
+
+input{
+
+    border: 3px solid yellow;
+}
+#questionparagraph{
+
+background-color:yellow
+
+}
+.area{
+
+    background-color:blue;
+    border: 5px dotted yellow;
+}
+
+
+li + .blogtext {
+
+    color:red;
+}
+
+.exit{
+
+    background-color: blue;
+    border: 4x dashed yellow;
+}

@@ -1,0 +1,49 @@
+body{
+
+
+    background-color:rgb(0, 254, 233);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+
+text-align: center;
+color: white;
+
+}
+h3{
+
+    text-align: center;
+    color: white;
+}
+
+h2{
+
+    text-align: center;
+    color:white;
+}
+
+p{
+
+    text-align: center;
+    color: white;
+}
+
+.actualbody{
+
+    background-color: rgb(38, 38, 181);
+    padding: 80px;
+    margin: 20px 20px 20px 20px;
+}
+
+#submitbutton{
+
+    background-color: yellow;
+    padding:15px;
+    border-radius: 15px;;
+}
+
+form{
+    color:white;
+    text-align: center;
+}

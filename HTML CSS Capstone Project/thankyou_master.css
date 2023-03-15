@@ -1,0 +1,14 @@
+.headers{
+
+color: white;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+border: 20px rgb(0, 254, 233) solid;
+margin-top: -50px;
+
+}
+
+body{
+
+    background-color: rgb(38, 38, 181);
+}
